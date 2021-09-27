@@ -1,2 +1,2 @@
 # Eternal
-Eternal is a Java based 2D action game.
+Eternal is a 2D action based game written in Java.
